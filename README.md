@@ -105,5 +105,4 @@ Misrepresentation is publicly documented.
 ### 📄 Peng Standard v1 – Paper
 
 Raw PDF:
-https://raw.githubusercontent.com/tartarys-archive/peng_standard_v.1/main/paper/peng_standard_v1.pdf
-
+https://raw.githubusercontent.com/tartarys-archive/peng_standard_v.1/blob/main/paper/Peng%20Standard%20v1%20(1).pdf
